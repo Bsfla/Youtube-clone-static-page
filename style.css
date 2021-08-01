@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    background-color: #212529;
+    font-size: 20px;
+    color: white
+    
+}
+.logo {
+    margin-left: 20px;
+    font-size: 30px;
+    
+}
+.logo i {
+    color: red;
+
+}
+.icons {
+    margin-right: 20px;
+}
+.icons i {
+    margin-right: 10px;
+}
